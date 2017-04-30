@@ -9,8 +9,7 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
-#define WATERFLOW_PIN_SIG	2
+#define GUVA-S12SD_PIN_OUT	A3
 
 // =======================Pin Definitions // ===================================
 
